@@ -4,7 +4,6 @@ import Container from '@material-ui/core/Container';
 import Transactions from './Transactions';
 
 
-
 function App() {
   const [userData, setUserData] = useState([]);
   const [transactions, setTransactions] = useState([]);

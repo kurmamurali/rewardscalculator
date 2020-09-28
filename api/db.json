@@ -1,0 +1,188 @@
+{
+  "users":[
+    { "id": 1,
+      "name": "R R Xevic"
+    },
+    {
+      "id": 2,
+      "name": "V B Petrik"
+    },
+    {
+      "id": 3,
+      "name": "S G Barak"
+    },
+    {
+      "id": 4,
+      "name": "Obama Reviski"
+    }
+  ],
+
+  "transactions": [
+    {
+      "id": 1,
+      "userid":1,
+      "amount": 150,
+      "title": "1 Purchased DVD",
+      "date": "26/08/2020"
+    },
+    {
+      "id": 2,
+      "userid":1,
+      "amount": 100,
+      "title": "2 Purchased DVD",
+      "date": "25/07/2020"
+    },
+    {
+      "id": 3,
+      "userid":2,
+      "amount": 110,
+      "title": "3 Purchased DVD",
+      "date": "20/10/2020"
+    },
+    {
+      "id": 4,
+      "userid":2,
+      "amount": 130,
+      "title": "4 Purchased DVD",
+      "date": "20/10/2020"
+    },
+    {
+      "id": 5,
+      "userid":2,
+      "amount": 120,
+      "title": "5 Purchased DVD",
+      "date": "20/10/2020"
+    },
+    {
+      "id": 6,
+      "userid":3,
+      "amount": 120,
+      "title": "6 Purchased DVD",
+      "date": "01/09/2020"
+    },{
+      "id": 7,
+      "userid":1,
+      "amount": 150,
+      "title": "7 Purchased DVD",
+      "date": "23/09/2020"
+    },
+    {
+      "id": 8,
+      "userid":1,
+      "amount": 100,
+      "title": "8 Purchased DVD",
+      "date": "25/10/2020"
+    },
+    {
+      "id": 9,
+      "userid":2,
+      "amount": 110,
+      "title": "9 Purchased DVD",
+      "date": "24/10/2020"
+    },
+    {
+      "id": 10,
+      "userid":2,
+      "amount": 130,
+      "title": "10 Purchased DVD",
+      "date": "23/10/2020"
+    },
+    {
+      "id": 11,
+      "userid":2,
+      "amount": 120,
+      "title": "11 Purchased DVD",
+      "date": "10/09/2020"
+    },
+    {
+      "id": 12,
+      "userid":3,
+      "amount": 120,
+      "title": "12 Purchased DVD",
+      "date": "09/09/2020"
+    },
+    {
+      "id": 13,
+      "userid":1,
+      "amount": 150,
+      "title": "1 Purchased DVD",
+      "date": "10/09/2020"
+    },
+    {
+      "id": 14,
+      "userid":1,
+      "amount": 100,
+      "title": "2 Purchased DVD",
+      "date": "11/09/2020"
+    },
+    {
+      "id": 15,
+      "userid":2,
+      "amount": 110,
+      "title": "3 Purchased DVD",
+      "date": "12/09/2020"
+    },
+    {
+      "id": 16,
+      "userid":2,
+      "amount": 130,
+      "title": "4 Purchased DVD",
+      "date": "11/09/2020"
+    },
+    {
+      "id": 17,
+      "userid":2,
+      "amount": 120,
+      "title": "5 Purchased DVD",
+      "date": "20/10/2020"
+    },
+    {
+      "id": 18,
+      "userid":3,
+      "amount": 120,
+      "title": "6 Purchased DVD",
+      "date": "20/10/2020"
+    },{
+      "id": 19,
+      "userid":1,
+      "amount": 150,
+      "title": "7 Purchased DVD",
+      "date": "20/11/2020"
+    },
+    {
+      "id": 20,
+      "userid":1,
+      "amount": 100,
+      "title": "8 Purchased DVD",
+      "date": "25/10/2020"
+    },
+    {
+      "id": 21,
+      "userid":2,
+      "amount": 110,
+      "title": "9 Purchased DVD",
+      "date": "24/10/2020"
+    },
+    {
+      "id": 22,
+      "userid":2,
+      "amount": 130,
+      "title": "10 Purchased DVD",
+      "date": "23/10/2020"
+    },
+    {
+      "id": 23,
+      "userid":2,
+      "amount": 120,
+      "title": "11 Purchased DVD",
+      "date": "22/10/2020"
+    },
+    {
+      "id": 24,
+      "userid":3,
+      "amount": 120,
+      "title": "12 Purchased DVD",
+      "date": "21/10/2020"
+    }
+  ]
+}
